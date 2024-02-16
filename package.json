@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-creator",
+  "version": "1.0.0",
+  "description": "A program that creates a QR Code from a user input website that writes a txt file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jed Verry",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.14",
+    "qr-image": "^3.2.0"
+  }
+}
